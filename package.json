@@ -1,0 +1,11 @@
+{
+  "name": "phonecontrollerwebservergame",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js"
+  },
+  "author": "Andrew Burkus, Ahmed Mustafa, Cody Sandford, Ethan Bagwell",
+  "license": "ISC"
+}
