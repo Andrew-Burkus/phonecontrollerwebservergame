@@ -1,8 +1,9 @@
 {
   "name": "phonecontrollerwebservergame",
   "version": "1.0.0",
-  "description": "",
+  "description": "blahblahblah",
   "main": "server.js",
+  "repository": "somethingsomewhere",
   "scripts": {
     "test": "node server.js"
   },
